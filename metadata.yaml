@@ -1,0 +1,28 @@
+_repo: Lesest-cke_38506
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hardekopf, Ferdinand
+    birthdate: 1876
+    deathdate: 1954
+    gutenberg_agent_id: '39504'
+    url: http://www.gutenberg.org/2009/agents/39504
+    wikipedia: http://de.wikipedia.org/wiki/Ferdinand_Hardekopf
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2012-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38506'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German literature'
+title: Lesestücke
+url: http://www.gutenberg.org/ebooks/38506
